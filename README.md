@@ -1,4 +1,4 @@
-### Hi there ![88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0](https://github.com/sharatks26/sharatks26/assets/19923424/665b6f76-e5d4-4d2f-98ff-07f656d50242)
+### Hi there <img src="https://github.com/sharatks26/sharatks26/assets/19923424/665b6f76-e5d4-4d2f-98ff-07f656d50242" alt="Icon" width="50" height="50">
 
 
 <!--
