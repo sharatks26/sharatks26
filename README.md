@@ -1,6 +1,8 @@
 ### Hi there <img src="https://github.com/sharatks26/sharatks26/assets/19923424/665b6f76-e5d4-4d2f-98ff-07f656d50242" alt="Icon" width="20" height="20">
 
-
+- 🔭 I’m currently working on Chisquare Labs
+- 🌱 I’m currently learning NextJs
+- 📫 How to reach me: sharatks26@gmail.com
 <!--
 **sharatks26/sharatks26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
