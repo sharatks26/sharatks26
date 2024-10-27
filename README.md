@@ -5,7 +5,7 @@
 
 
 ## About Me 🌟
-With over 7 years of experience in the MERN stack, I focus on building scalable, modern web applications. Passionate about continuous learning and advancing tech skills, I enjoy collaborating on innovative projects.
+With over 7+ years of experience in the MERN stack, I focus on building scalable, modern web applications. Passionate about continuous learning and advancing tech skills, I enjoy collaborating on innovative projects.
 
 
 ## Professional Highlights 🚀
