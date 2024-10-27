@@ -3,12 +3,10 @@
 - 🎓 **Senior Software Engineer at [Chisquare Labs](https://www.linkedin.com/company/chisquarelabs/)**
 - 🌍 **Location:** Kerala, India
 
----
 
 ## About Me 🌟
 With over 7 years of experience in the MERN stack, I focus on building scalable, modern web applications. Passionate about continuous learning and advancing tech skills, I enjoy collaborating on innovative projects.
 
----
 
 ## Skills & Expertise 🛠️
 | **Skill**               | **Proficiency**       | **Years of Experience** |
@@ -22,14 +20,12 @@ With over 7 years of experience in the MERN stack, I focus on building scalable,
 | Docker                  | Intermediate          | 2 years                 |
 | AWS                     | Proficient            | 3 years                 |
 
----
 
 ## Professional Highlights 🚀
 - 🌱 Currently enhancing developer productivity and project management through innovative tools.
 - 💼 Successfully led the development of scalable applications for [Chisquare Labs](https://www.linkedin.com/company/chisquarelabs/), focusing on modular design and performance optimization.
 - 🔄 Demonstrated adaptability by integrating advanced JavaScript frameworks to keep pace with evolving tech.
 
----
 
 ## Top Technologies 💻
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react) 
@@ -44,7 +40,6 @@ With over 7 years of experience in the MERN stack, I focus on building scalable,
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
----
 
 ## What I’m Working On 🛠️
 I’m currently engaged in projects that challenge me to:
@@ -52,14 +47,13 @@ I’m currently engaged in projects that challenge me to:
 - 🛠 Develop tools for **developer productivity** and **project management**
 - 🔧 Apply best practices in **API design** and **scalability**
 
----
 
+<!--
 ## GitHub Stats 📈
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharatks26)
 
 
 
-<!--
 - 🔭 I’m currently working on Chisquare Labs
 - 🌱 I’m currently learning NextJs
 - 📫 How to reach me: sharatks26@gmail.com
