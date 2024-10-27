@@ -4,17 +4,17 @@
 - 🌍 **Location:** Kerala, India
 
 
-# About Me 🌟
+### About Me 🌟
 With over 7+ years of experience in the MERN stack, I focus on building scalable, modern web applications. Passionate about continuous learning and advancing tech skills, I enjoy collaborating on innovative projects.
 
 
-# Professional Highlights 🚀
+### Professional Highlights 🚀
 - 🌱 Currently enhancing developer productivity and project management through innovative tools.
 - 💼 Successfully led the development of scalable applications for [Chisquare Labs](https://www.linkedin.com/company/chisquarelabs/), focusing on modular design and performance optimization.
 - 🔄 Demonstrated adaptability by integrating advanced JavaScript frameworks to keep pace with evolving tech.
 
 
-# Top Technologies 💻
+### Top Technologies 💻
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
@@ -28,7 +28,7 @@ With over 7+ years of experience in the MERN stack, I focus on building scalable
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
 
-# What I’m Working On 🛠️
+### What I’m Working On 🛠️
 I’m currently engaged in projects that challenge me to:
 - 📈 Advance skills in **JavaScript frameworks**
 - 🛠 Develop tools for **developer productivity** and **project management**
