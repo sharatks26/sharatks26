@@ -14,6 +14,16 @@ With over 7+ years of experience in the MERN stack, I focus on building scalable
 - 🔄 Demonstrated adaptability by integrating advanced JavaScript frameworks to keep pace with evolving tech.
 
 
+### What I currently do 🛠️
+- 📈 Advance skills in **JavaScript frameworks**
+- 🛠 Develop tools for **developer productivity** and **project management**
+- 🔧 Apply best practices in **API design** and **scalability**
+- 🌱 I’m currently learning NextJs and NestJS
+- 💻 Most used line of code `console.log("Hello World!!!")`
+- 📫 How to reach me: [Mail](sharatks26@gmail.com)
+- 💬 You can also visit [LinkdIn](https://www.linkedin.com/in/sharatks26/)
+
+
 ### Top Technologies 💻
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
@@ -26,13 +36,6 @@ With over 7+ years of experience in the MERN stack, I focus on building scalable
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-
-
-### What I’m Working On 🛠️
-I’m currently engaged in projects that challenge me to:
-- 📈 Advance skills in **JavaScript frameworks**
-- 🛠 Develop tools for **developer productivity** and **project management**
-- 🔧 Apply best practices in **API design** and **scalability**
 
 
 <!--
