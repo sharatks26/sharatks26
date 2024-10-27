@@ -19,8 +19,8 @@ With over 7+ years of experience in the MERN stack, I focus on building scalable
 - 🛠 Develop tools for **developer productivity** and **project management**
 - 🔧 Apply best practices in **API design** and **scalability**
 - 🌱 I’m currently learning NextJs and NestJS
-- 💻 Most used line of code `console.log("Hello World!!!")`
-- 📫 How to reach me: [Mail](sharatks26@gmail.com)
+- 💻 Most used line of code `console.log("Hello World!!!");`
+- 📫 How to reach me: sharatks26@gmail.com
 - 💬 You can also visit [LinkdIn](https://www.linkedin.com/in/sharatks26/)
 
 
