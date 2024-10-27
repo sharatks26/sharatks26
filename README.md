@@ -55,11 +55,7 @@ I’m currently engaged in projects that challenge me to:
 ---
 
 ## GitHub Stats 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
-
----
-
-**Want to know more? Visit my [Portfolio](https://islemmaboud.com)**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharatks26)
 
 
 
