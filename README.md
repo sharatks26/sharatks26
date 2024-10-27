@@ -8,19 +8,6 @@
 With over 7 years of experience in the MERN stack, I focus on building scalable, modern web applications. Passionate about continuous learning and advancing tech skills, I enjoy collaborating on innovative projects.
 
 
-## Skills & Expertise 🛠️
-| **Skill**               | **Proficiency**       | **Years of Experience** |
-|-------------------------|-----------------------|-------------------------|
-| JavaScript              | Expert                | 7+ years                |
-| React                   | Expert                | 5+ years                |
-| Node.js                 | Advanced              | 5+ years                |
-| TypeScript              | Proficient            | 3 years                 |
-| GraphQL                 | Intermediate          | 2 years                 |
-| MongoDB                 | Advanced              | 5+ years                |
-| Docker                  | Intermediate          | 2 years                 |
-| AWS                     | Proficient            | 3 years                 |
-
-
 ## Professional Highlights 🚀
 - 🌱 Currently enhancing developer productivity and project management through innovative tools.
 - 💼 Successfully led the development of scalable applications for [Chisquare Labs](https://www.linkedin.com/company/chisquarelabs/), focusing on modular design and performance optimization.
